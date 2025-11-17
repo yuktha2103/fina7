@@ -3,3 +3,4 @@ public class samplename{
         String name="yuktha";
         System.out.println("hello my name is" +name);
     }
+}
